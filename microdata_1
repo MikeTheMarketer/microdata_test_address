@@ -1,0 +1,7 @@
+<div class="col-sm-6" itemscope itemtype="http://schema.org/Organization">
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <h4 style="margin-bottom: 0px;"><a href="https://www.yahoo.com/" itemprop="url">LA</a></h4>
+        <p>100 test<br />
+            LA, CA, 10000</p>
+        <p><a href="tel:+13600000000">360-000-0000</a></p>
+    </div>
