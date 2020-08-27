@@ -1,0 +1,7 @@
+<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<h4 style="margin-bottom: 0px;"><a href="https://www.recordingconnection.com/school-locations/los-angeles/" itemprop=url>>
+	<span itemprop="name">Los Angeles Recording Connection Audio Institute</span></a></h4>
+    <span itemprop="streetAddress">6300 Wilshire Blvd. Suite #640</span>,
+    <span itemprop="addressLocality">Los Angeles</span>,
+    <span itemprop="addressRegion">CA</span>, <span itemprop="addressCountry">USA</span>
+  </address>
