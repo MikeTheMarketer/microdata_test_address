@@ -1,0 +1,72 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "address":
+  [
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postcalCode": "",
+      "streetAddress": "",
+      "url" :""
+    },
+  ]
+}
+</script>
