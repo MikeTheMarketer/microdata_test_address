@@ -3,7 +3,7 @@
 
 #updated address tags - updated span tags
 <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-	<span style="margin-bottom: 0px;"><a href="https://www.yahoo.com/" itemprop=url>
+	<span style="margin-bottom: 0px;"><a href="<?php the_permalink(); ?>" itemprop=url>
 	<span itemprop="name"><?php echo $loc['addl_city']; ?> <?php echo $school_name; ?></span></a></span>
     <span itemprop="streetAddress"><?php echo $loc['addl_address'] ?></span>
     <span itemprop="addressLocality"><?php echo $loc['addl_city']; ?></span>
