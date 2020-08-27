@@ -1,5 +1,5 @@
 #added parent itemtype 
-<div itemscope itemtype="http://schema.org/Organization">
+<div class="col-sm-6" itemscope itemtype="http://schema.org/Organization">
 
 #updated address tags - updated span tags
 <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
